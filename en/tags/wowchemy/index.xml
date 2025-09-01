@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wowchemy | My Site</title>
+    <link>https://ali-sultani-pfur.github.io/en/tags/wowchemy/</link>
+      <atom:link href="https://ali-sultani-pfur.github.io/en/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wowchemy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ali-sultani-pfur.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Wowchemy</title>
+      <link>https://ali-sultani-pfur.github.io/en/tags/wowchemy/</link>
+    </image>
+    
+    <item>
+      <title>A Researcher’s Personal Website – Simple and Modern with Hugo Academic</title>
+      <link>https://ali-sultani-pfur.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;why-does-a-researcher-need-a-personal-website-in-2025&#34;&gt;Why does a researcher need a personal website in 2025?&lt;/h1&gt;
+&lt;p&gt;Imagine: you publish an article, speak at a conference, or launch a course. Where can people quickly find all this information? Randomly through social media? By chance in search engines? The most convenient place is on your own website.&lt;/p&gt;
+&lt;p&gt;Today, a personal website is not a luxury or “just for show.” It’s as much a part of academic life as publishing papers or participating in research projects.&lt;/p&gt;
+&lt;p&gt;This is where &lt;strong&gt;Hugo Academic&lt;/strong&gt; comes in — a tool that lets you build a modern researcher’s website without the hassle.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-it-exactly&#34;&gt;What is it exactly?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a theme for the static site generator Hugo. In simple terms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🏎 The site runs super fast and doesn’t require complex servers.&lt;/li&gt;
+&lt;li&gt;✍ Everything is stored in plain text files — easy to edit.&lt;/li&gt;
+&lt;li&gt;🎨 Clean, modern design out of the box.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In short, grab your laptop, write some Markdown, and you’ve got yourself an academic “home” online.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-can-you-put-on-the-website&#34;&gt;What can you put on the website?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: articles, books, preprints with nice cards and PDF links.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: share what you’re working on and the results you’ve achieved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: courses, schedules, materials for students.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;News and blog&lt;/strong&gt;: updates about conferences, research, or just personal insights.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resume (CV)&lt;/strong&gt;: always up-to-date and accessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, your site becomes both a business card, an archive, and a news feed.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a way to present your work in a modern and accessible way.&lt;br&gt;
+You control the content, while the platform takes care of speed and design.&lt;/p&gt;
+&lt;p&gt;So, if you want colleagues and students to easily find your materials — try Hugo Academic. Its technical simplicity perfectly fits academic needs.&lt;/p&gt;
+&lt;p&gt;Your website can work for you. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My Site</title>
+    <link>https://ali-sultani-pfur.github.io/en/tags/markdown/</link>
+      <atom:link href="https://ali-sultani-pfur.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ali-sultani-pfur.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://ali-sultani-pfur.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/05/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;The final week of August was eventful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 Reviewed the basics of &lt;strong&gt;graph theory&lt;/strong&gt; – will be useful for coursework.&lt;/li&gt;
+&lt;li&gt;💡 Tried writing a simple neural network in PyTorch – it was a fun experiment.&lt;/li&gt;
+&lt;li&gt;📖 Finished reading a book on the fundamentals of cybersecurity.&lt;/li&gt;
+&lt;li&gt;🎥 Watched a lecture on the history of the internet – many things became clearer.&lt;/li&gt;
+&lt;li&gt;☀️ Spent the weekend outdoors – recharged with energy before the new academic year.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Researcher’s Personal Website – Simple and Modern with Hugo Academic</title>
+      <link>https://ali-sultani-pfur.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;why-does-a-researcher-need-a-personal-website-in-2025&#34;&gt;Why does a researcher need a personal website in 2025?&lt;/h1&gt;
+&lt;p&gt;Imagine: you publish an article, speak at a conference, or launch a course. Where can people quickly find all this information? Randomly through social media? By chance in search engines? The most convenient place is on your own website.&lt;/p&gt;
+&lt;p&gt;Today, a personal website is not a luxury or “just for show.” It’s as much a part of academic life as publishing papers or participating in research projects.&lt;/p&gt;
+&lt;p&gt;This is where &lt;strong&gt;Hugo Academic&lt;/strong&gt; comes in — a tool that lets you build a modern researcher’s website without the hassle.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-it-exactly&#34;&gt;What is it exactly?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a theme for the static site generator Hugo. In simple terms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🏎 The site runs super fast and doesn’t require complex servers.&lt;/li&gt;
+&lt;li&gt;✍ Everything is stored in plain text files — easy to edit.&lt;/li&gt;
+&lt;li&gt;🎨 Clean, modern design out of the box.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In short, grab your laptop, write some Markdown, and you’ve got yourself an academic “home” online.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-can-you-put-on-the-website&#34;&gt;What can you put on the website?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: articles, books, preprints with nice cards and PDF links.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: share what you’re working on and the results you’ve achieved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: courses, schedules, materials for students.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;News and blog&lt;/strong&gt;: updates about conferences, research, or just personal insights.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resume (CV)&lt;/strong&gt;: always up-to-date and accessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, your site becomes both a business card, an archive, and a news feed.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a way to present your work in a modern and accessible way.&lt;br&gt;
+You control the content, while the platform takes care of speed and design.&lt;/p&gt;
+&lt;p&gt;So, if you want colleagues and students to easily find your materials — try Hugo Academic. Its technical simplicity perfectly fits academic needs.&lt;/p&gt;
+&lt;p&gt;Your website can work for you. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/04/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;The week went by quickly, and here’s what I managed to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔬 Started preparing for lab sessions on &lt;strong&gt;computer networks&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🖥 Tested several &lt;strong&gt;machine learning&lt;/strong&gt; libraries.&lt;/li&gt;
+&lt;li&gt;📚 Wrote a summary on linear algebra – will be useful in the future.&lt;/li&gt;
+&lt;li&gt;🎮 Spent an evening playing a co-op game with friends – it was a great mood booster.&lt;/li&gt;
+&lt;li&gt;🌆 Took an evening walk around Moscow – the atmosphere was amazing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/03/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;A lot happened this week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Built a small &lt;strong&gt;Python&lt;/strong&gt; project – data visualization with Matplotlib.&lt;/li&gt;
+&lt;li&gt;📊 Got a good grasp of &lt;strong&gt;asymptotic complexity&lt;/strong&gt; – now it’s easier to evaluate algorithms.&lt;/li&gt;
+&lt;li&gt;⚽ Played football with friends – our team won!&lt;/li&gt;
+&lt;li&gt;🎧 Discovered a new podcast about technology and startups.&lt;/li&gt;
+&lt;li&gt;🍵 Visited a cozy café near campus – a perfect spot for studying.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/02/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;Here’s what happened this week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 Completed a short &lt;strong&gt;SQL&lt;/strong&gt; course – working with databases feels much easier now.&lt;/li&gt;
+&lt;li&gt;🔍 Practiced problems on LeetCode, especially enjoyed those on &lt;strong&gt;dynamic programming&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📖 Started reading the book &lt;em&gt;Artificial Intelligence: A Modern Approach&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎥 Went to the cinema to watch a sci-fi movie – really enjoyed it, gave me new ideas.&lt;/li&gt;
+&lt;li&gt;🍕 We had a pizza night in the dorm – lots of fun!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/01/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;This week was both engaging and productive:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Started preparing for the new semester – revisiting the basics of &lt;strong&gt;algorithms&lt;/strong&gt; and &lt;strong&gt;data structures&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;💻 Figured out how &lt;strong&gt;GitHub Actions&lt;/strong&gt; works – now automating project builds.&lt;/li&gt;
+&lt;li&gt;🎮 Played a strategy game with friends – a great way to relieve stress.&lt;/li&gt;
+&lt;li&gt;🏃 Ran 5 km in the park and can feel my endurance improving.&lt;/li&gt;
+&lt;li&gt;☕ Met with classmates – we discussed study plans for the semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

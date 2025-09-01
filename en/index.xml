@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Site</title>
+    <link>https://ali-sultani-pfur.github.io/en/</link>
+      <atom:link href="https://ali-sultani-pfur.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Site</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ali-sultani-pfur.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>My Site</title>
+      <link>https://ali-sultani-pfur.github.io/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://ali-sultani-pfur.github.io/en/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
+ feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including 
+ such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why It’s Important to Study Algorithms</title>
+      <link>https://ali-sultani-pfur.github.io/en/publication/05/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/publication/05/</guid>
+      <description>&lt;h1 id=&#34;-why-its-important-to-study-algorithms&#34;&gt;🤖 Why It’s Important to Study Algorithms&lt;/h1&gt;
+&lt;p&gt;Algorithms are not just the “scary” part of a computer science course. They are the foundation of effective programming. Without them, you can still write code — but you won’t be able to write &lt;strong&gt;fast, scalable, and reliable&lt;/strong&gt; code.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-do-algorithms-give-you&#34;&gt;🧩 What do algorithms give you?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimization&lt;/strong&gt;&lt;br&gt;
+A good algorithm can speed up a task by orders of magnitude. Why wait 10 seconds if you can get the result in 0.1?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Versatility&lt;/strong&gt;&lt;br&gt;
+Understanding algorithms helps solve problems across many domains — from graph processing to image recognition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Career growth&lt;/strong&gt;&lt;br&gt;
+Algorithms are at the core of technical interviews in major IT companies. Knowledge of theory + practice = confidence at interviews.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-should-you-study&#34;&gt;📚 What should you study?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sorting and searching&lt;/li&gt;
+&lt;li&gt;Recursion and dynamic programming&lt;/li&gt;
+&lt;li&gt;Graph algorithms (DFS, BFS, Dijkstra, A*)&lt;/li&gt;
+&lt;li&gt;Data structures: lists, trees, hash tables, heaps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Algorithms are the language computers “think” in. The better you understand this language, the stronger you become as a developer. It’s not about memorization — it’s about &lt;strong&gt;thinking and structured problem-solving&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Study them, practice them, visualize them — and your code will become much better!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/05/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;The final week of August was eventful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 Reviewed the basics of &lt;strong&gt;graph theory&lt;/strong&gt; – will be useful for coursework.&lt;/li&gt;
+&lt;li&gt;💡 Tried writing a simple neural network in PyTorch – it was a fun experiment.&lt;/li&gt;
+&lt;li&gt;📖 Finished reading a book on the fundamentals of cybersecurity.&lt;/li&gt;
+&lt;li&gt;🎥 Watched a lecture on the history of the internet – many things became clearer.&lt;/li&gt;
+&lt;li&gt;☀️ Spent the weekend outdoors – recharged with energy before the new academic year.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming</title>
+      <link>https://ali-sultani-pfur.github.io/en/publication/04/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-scientific-programming-languages-worth-knowing&#34;&gt;🧠 Scientific Programming: Languages Worth Knowing&lt;/h2&gt;
+&lt;p&gt;Scientific programming is not about flashy UIs or design. It’s about computation, optimization, data processing, and scalability. From a Computer Science perspective, I’d highlight several languages, each worth attention.&lt;/p&gt;
+&lt;h3 id=&#34;-python--the-undisputed-leader&#34;&gt;🐍 Python — the undisputed leader&lt;/h3&gt;
+&lt;p&gt;Python has become the de facto standard in the scientific community. It’s convenient, readable, and highly extensible. NumPy, SciPy, Pandas, Matplotlib, TensorFlow, PyTorch — all of these make it a universal tool for data analysis, machine learning, and mathematical modeling. Plus — a huge user base and extensive documentation.&lt;/p&gt;
+&lt;h3 id=&#34;-matlab--powerful-but-limited&#34;&gt;🧮 MATLAB — powerful but limited&lt;/h3&gt;
+&lt;p&gt;MATLAB is still widely used in engineering and scientific environments, especially in universities. Its main advantage is matrix power and built-in functions. The downside — a closed ecosystem and licensing. Still, for beginners and for visualization, it’s a solid option.&lt;/p&gt;
+&lt;h3 id=&#34;-cc--when-you-need-speed&#34;&gt;⚙️ C/C++ — when you need speed&lt;/h3&gt;
+&lt;p&gt;If maximum performance is required, C or C++ is the go-to choice. For numerical calculations, real-time simulations, GPU work — it’s almost a must-have. The learning curve isn’t the easiest, but it gives an understanding of what happens “at the hardware level.”&lt;/p&gt;
+&lt;h3 id=&#34;-julia--fresh-and-promising&#34;&gt;🚀 Julia — fresh and promising&lt;/h3&gt;
+&lt;p&gt;Julia positions itself as a fast language for scientific computing. Indeed, its syntax is pleasant, performance is close to C, and parallel computing support is built-in. However, the community is still small, and some library support remains limited.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-conclusion&#34;&gt;🔎 Conclusion&lt;/h3&gt;
+&lt;p&gt;If you’re in computer science and plan to work with data, modeling, or research tasks — here’s my advice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — for starting out and for most tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt; — to understand low-level optimization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia or Rust&lt;/strong&gt; — if you want something modern and a bit different.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ability to choose the right language for the task is a skill that pays off. Scientific programming isn’t about picking one “favorite” language — it’s about adaptability and making smart use of the tools available.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Researcher’s Personal Website – Simple and Modern with Hugo Academic</title>
+      <link>https://ali-sultani-pfur.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;why-does-a-researcher-need-a-personal-website-in-2025&#34;&gt;Why does a researcher need a personal website in 2025?&lt;/h1&gt;
+&lt;p&gt;Imagine: you publish an article, speak at a conference, or launch a course. Where can people quickly find all this information? Randomly through social media? By chance in search engines? The most convenient place is on your own website.&lt;/p&gt;
+&lt;p&gt;Today, a personal website is not a luxury or “just for show.” It’s as much a part of academic life as publishing papers or participating in research projects.&lt;/p&gt;
+&lt;p&gt;This is where &lt;strong&gt;Hugo Academic&lt;/strong&gt; comes in — a tool that lets you build a modern researcher’s website without the hassle.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-it-exactly&#34;&gt;What is it exactly?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a theme for the static site generator Hugo. In simple terms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🏎 The site runs super fast and doesn’t require complex servers.&lt;/li&gt;
+&lt;li&gt;✍ Everything is stored in plain text files — easy to edit.&lt;/li&gt;
+&lt;li&gt;🎨 Clean, modern design out of the box.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In short, grab your laptop, write some Markdown, and you’ve got yourself an academic “home” online.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-can-you-put-on-the-website&#34;&gt;What can you put on the website?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: articles, books, preprints with nice cards and PDF links.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: share what you’re working on and the results you’ve achieved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: courses, schedules, materials for students.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;News and blog&lt;/strong&gt;: updates about conferences, research, or just personal insights.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resume (CV)&lt;/strong&gt;: always up-to-date and accessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, your site becomes both a business card, an archive, and a news feed.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a way to present your work in a modern and accessible way.&lt;br&gt;
+You control the content, while the platform takes care of speed and design.&lt;/p&gt;
+&lt;p&gt;So, if you want colleagues and students to easily find your materials — try Hugo Academic. Its technical simplicity perfectly fits academic needs.&lt;/p&gt;
+&lt;p&gt;Your website can work for you. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Make a Scientific Presentation</title>
+      <link>https://ali-sultani-pfur.github.io/en/publication/03/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/publication/03/</guid>
+      <description>&lt;h1 id=&#34;-guide-how-to-make-a-proper-scientific-presentation-not-just-a-set-of-slides&#34;&gt;🧑‍💻 Guide: How to Make a Proper Scientific Presentation (Not Just a Set of Slides)&lt;/h1&gt;
+&lt;p&gt;If your task is to prepare a &lt;strong&gt;scientific presentation&lt;/strong&gt; — for a class, project defense, or a conference — simply copying text from your report into PowerPoint no longer works.&lt;/p&gt;
+&lt;p&gt;Here’s a simple yet effective framework that will help you stay within the time limit and convey your message clearly.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-1-presentation-structure&#34;&gt;🧱 1. Presentation Structure&lt;/h2&gt;
+&lt;h3 id=&#34;-slide-1--title&#34;&gt;🔹 Slide 1 — Title&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title of the work (the shorter and clearer, the better).&lt;/li&gt;
+&lt;li&gt;Name, program, supervisor (if required).&lt;/li&gt;
+&lt;li&gt;Date/event (e.g., “IT Department Conference,” “Project Pre-defense”).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-slide-2--relevance&#34;&gt;🔹 Slide 2 — Relevance&lt;/h3&gt;
+&lt;p&gt;Why is the topic important? Where is it applied? What problems does it solve? One slide — max two short paragraphs + an illustration/diagram.&lt;/p&gt;
+&lt;h3 id=&#34;-slide-3--aim-and-objectives&#34;&gt;🔹 Slide 3 — Aim and Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Clearly state: &lt;em&gt;“The aim is to develop…”&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;And list objectives: &lt;em&gt;“1. Research…, 2. Implement…, 3. Test…”&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-slides-46--main-part&#34;&gt;🔹 Slides 4–6 — Main Part&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Briefly about methods, algorithms, architecture.&lt;/li&gt;
+&lt;li&gt;Add a diagram or code snippet (don’t overload with text).&lt;/li&gt;
+&lt;li&gt;Show &lt;strong&gt;what you did&lt;/strong&gt;, not only what you &lt;em&gt;read about&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-slides-78--results&#34;&gt;🔹 Slides 7–8 — Results&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tables, graphs, screenshots.&lt;/li&gt;
+&lt;li&gt;Short analysis: what worked, what advantages you achieved.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-final-slide--conclusions&#34;&gt;🔹 Final Slide — Conclusions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What was achieved?&lt;/li&gt;
+&lt;li&gt;What are the limitations?&lt;/li&gt;
+&lt;li&gt;What can be improved in the future?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-2-design-minimalism-wins&#34;&gt;🛠 2. Design: Minimalism Wins&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Color palette&lt;/strong&gt; — 2–3 colors, avoid too much variety.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Font&lt;/strong&gt; — readable (no smaller than 18 pt).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graphics&lt;/strong&gt; — diagrams and visuals are better than plain text.&lt;/li&gt;
+&lt;li&gt;Don’t fear whitespace — less text, more clarity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-3-content--copy-paste&#34;&gt;💡 3. Content ≠ Copy-Paste&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Don’t paste paragraphs from the report. Reframe them as short bullet points.&lt;/li&gt;
+&lt;li&gt;One slide = one idea. No overload.&lt;/li&gt;
+&lt;li&gt;Visualize data: charts are better than tables.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-4-presentation-tips&#34;&gt;🗣 4. Presentation Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rehearse at least once. With a timer.&lt;/li&gt;
+&lt;li&gt;Speak in your own words, don’t read from the screen.&lt;/li&gt;
+&lt;li&gt;Know what’s on each slide and why it’s there.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;A good scientific presentation makes it clear &lt;strong&gt;what you did, why, and how it works&lt;/strong&gt;. Everything else — style, graphics, special effects — is secondary.&lt;/p&gt;
+&lt;p&gt;First comes logic, then design. This rule always works.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup Languages. Introduction to LaTeX</title>
+      <link>https://ali-sultani-pfur.github.io/en/publication/02/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/publication/02/</guid>
+      <description>&lt;h1 id=&#34;markup-languages-introduction-to-latex&#34;&gt;Markup Languages. Introduction to LaTeX&lt;/h1&gt;
+&lt;h2 id=&#34;what-are-markup-languages&#34;&gt;What are markup languages?&lt;/h2&gt;
+&lt;p&gt;Markup languages are designed to structure and format text. They are used in web development, technical documentation, scientific papers, and even in everyday notes.&lt;/p&gt;
+&lt;p&gt;Some popular markup languages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — the foundation of web pages, enabling the creation of structured documents with multimedia content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — a simple and lightweight language for documentation, blogs, and notes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — a powerful typesetting system, especially popular among scientists and engineers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-makes-latex-special&#34;&gt;What makes LaTeX special?&lt;/h2&gt;
+&lt;p&gt;LaTeX is not just a markup language but a full-fledged document preparation system. Unlike regular text editors, it uses a declarative approach: the author defines the structure of the document, and LaTeX takes care of formatting it properly.&lt;/p&gt;
+&lt;p&gt;Key advantages of LaTeX:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Professional typography&lt;/strong&gt;. Documents look polished without extra effort.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced handling of mathematical formulas&lt;/strong&gt;. This makes it the standard in the scientific community.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexibility and modularity&lt;/strong&gt;. Packages can be used to extend functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated formatting&lt;/strong&gt;. Headings, lists, bibliographies, references, and tables of contents are generated automatically.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;where-is-latex-used&#34;&gt;Where is LaTeX used?&lt;/h2&gt;
+&lt;p&gt;LaTeX is widely applied in scientific and technical fields:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing theses and coursework.&lt;/li&gt;
+&lt;li&gt;Preparing scientific articles and books.&lt;/li&gt;
+&lt;li&gt;Creating technical documentation and presentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Although LaTeX requires time to learn, its capabilities make it an indispensable tool for working with text where precision and high-quality typesetting are essential.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/04/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;The week went by quickly, and here’s what I managed to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔬 Started preparing for lab sessions on &lt;strong&gt;computer networks&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🖥 Tested several &lt;strong&gt;machine learning&lt;/strong&gt; libraries.&lt;/li&gt;
+&lt;li&gt;📚 Wrote a summary on linear algebra – will be useful in the future.&lt;/li&gt;
+&lt;li&gt;🎮 Spent an evening playing a co-op game with friends – it was a great mood booster.&lt;/li&gt;
+&lt;li&gt;🌆 Took an evening walk around Moscow – the atmosphere was amazing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://ali-sultani-pfur.github.io/en/publication/01/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;-version-control-git&#34;&gt;🔄 Version Control. Git&lt;/h1&gt;
+&lt;h2 id=&#34;what-is-version-control&#34;&gt;What is version control?&lt;/h2&gt;
+&lt;p&gt;Version control is the process of tracking and managing changes in code. This is especially important for teamwork, when multiple developers are making edits to the same project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why is it important?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Allows you to roll back to a previous version of the code&lt;/li&gt;
+&lt;li&gt;✅ Helps track changes and their authors&lt;/li&gt;
+&lt;li&gt;✅ Simplifies collaborative development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;git--the-main-version-control-tool&#34;&gt;Git – the main version control tool&lt;/h2&gt;
+&lt;p&gt;Git is the most popular distributed version control system (VCS). It is used by developers worldwide and forms the backbone of platforms like GitHub, GitLab, and Bitbucket.&lt;/p&gt;
+&lt;h3 id=&#34;-core-principles-of-git&#34;&gt;🔹 Core principles of Git&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Local and remote repositories&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Git stores all changes in a &lt;strong&gt;local repository&lt;/strong&gt; on your computer.&lt;/li&gt;
+&lt;li&gt;The repository can be synchronized with a &lt;strong&gt;remote server&lt;/strong&gt;, such as GitHub.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Commits and change history&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;commit&lt;/strong&gt; is saving changes to the project’s history.&lt;/li&gt;
+&lt;li&gt;Each commit has a unique &lt;strong&gt;hash&lt;/strong&gt; (identifier), making it easy to track modifications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Branching and merging&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Git allows you to create &lt;strong&gt;branches&lt;/strong&gt; to work on new features without breaking the main code.&lt;/li&gt;
+&lt;li&gt;Once the work is done, the branch can be &lt;strong&gt;merged&lt;/strong&gt; into the main one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conflict resolution&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If two developers edit the same file, a &lt;strong&gt;conflict&lt;/strong&gt; may occur.&lt;/li&gt;
+&lt;li&gt;Git lets you manually choose which changes to keep.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Team collaboration&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developers make changes in &lt;strong&gt;their own branches&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;After code review, changes are &lt;strong&gt;merged&lt;/strong&gt; into the main branch.&lt;/li&gt;
+&lt;li&gt;This prevents chaos in the code and makes quality control easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;why-is-git-better-than-just-copying-files&#34;&gt;Why is Git better than just copying files?&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Storage method&lt;/th&gt;
+          &lt;th&gt;Version control&lt;/th&gt;
+          &lt;th&gt;Rollback option&lt;/th&gt;
+          &lt;th&gt;Team collaboration&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Simple file copying&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+          &lt;td&gt;❌ No&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Git&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+          &lt;td&gt;✅ Yes&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Git is a powerful tool for version control. If you are developing software, learning Git is an essential skill!&lt;/p&gt;
+&lt;p&gt;🚀 How do you use Git? Share in the comments!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/03/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;A lot happened this week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Built a small &lt;strong&gt;Python&lt;/strong&gt; project – data visualization with Matplotlib.&lt;/li&gt;
+&lt;li&gt;📊 Got a good grasp of &lt;strong&gt;asymptotic complexity&lt;/strong&gt; – now it’s easier to evaluate algorithms.&lt;/li&gt;
+&lt;li&gt;⚽ Played football with friends – our team won!&lt;/li&gt;
+&lt;li&gt;🎧 Discovered a new podcast about technology and startups.&lt;/li&gt;
+&lt;li&gt;🍵 Visited a cozy café near campus – a perfect spot for studying.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/02/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;Here’s what happened this week:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 Completed a short &lt;strong&gt;SQL&lt;/strong&gt; course – working with databases feels much easier now.&lt;/li&gt;
+&lt;li&gt;🔍 Practiced problems on LeetCode, especially enjoyed those on &lt;strong&gt;dynamic programming&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📖 Started reading the book &lt;em&gt;Artificial Intelligence: A Modern Approach&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;🎥 Went to the cinema to watch a sci-fi movie – really enjoyed it, gave me new ideas.&lt;/li&gt;
+&lt;li&gt;🍕 We had a pizza night in the dorm – lots of fun!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ali-sultani-pfur.github.io/en/post/01/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-weekly-highlights&#34;&gt;📅 Weekly Highlights&lt;/h2&gt;
+&lt;p&gt;This week was both engaging and productive:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Started preparing for the new semester – revisiting the basics of &lt;strong&gt;algorithms&lt;/strong&gt; and &lt;strong&gt;data structures&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;💻 Figured out how &lt;strong&gt;GitHub Actions&lt;/strong&gt; works – now automating project builds.&lt;/li&gt;
+&lt;li&gt;🎮 Played a strategy game with friends – a great way to relieve stress.&lt;/li&gt;
+&lt;li&gt;🏃 Ran 5 km in the park and can feel my endurance improving.&lt;/li&gt;
+&lt;li&gt;☕ Met with classmates – we discussed study plans for the semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ali-sultani-pfur.github.io/en/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://ali-sultani-pfur.github.io/en/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript</title>
+      <link>https://ali-sultani-pfur.github.io/en/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ali-sultani-pfur.github.io/en/teaching/js/</guid>
+      <description>&lt;p&gt;
+ is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your 
+, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; spoiler text=&amp;#34;👉 Click to view the solution&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$
+.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
